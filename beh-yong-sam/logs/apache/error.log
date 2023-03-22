@@ -1,0 +1,89 @@
+[Sun Mar 19 23:09:07.412397 2023] [mpm_winnt:notice] [pid 30004:tid 824] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sun Mar 19 23:09:07.413397 2023] [mpm_winnt:notice] [pid 30004:tid 824] AH00456: Server built: Apr 21 2020 13:46:54
+[Sun Mar 19 23:09:07.413397 2023] [core:notice] [pid 30004:tid 824] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Sun Mar 19 23:09:07.420400 2023] [mpm_winnt:notice] [pid 30004:tid 824] AH00418: Parent: Created child process 25468
+[Sun Mar 19 23:09:07.916470 2023] [mpm_winnt:notice] [pid 25468:tid 832] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 19 23:10:54.299716 2023] [core:warn] [pid 22612:tid 764] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 19 23:10:54.301722 2023] [mpm_winnt:notice] [pid 22612:tid 764] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sun Mar 19 23:10:54.301722 2023] [mpm_winnt:notice] [pid 22612:tid 764] AH00456: Server built: Apr 21 2020 13:46:54
+[Sun Mar 19 23:10:54.301722 2023] [core:notice] [pid 22612:tid 764] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Sun Mar 19 23:10:54.307718 2023] [mpm_winnt:notice] [pid 22612:tid 764] AH00418: Parent: Created child process 27840
+[Sun Mar 19 23:10:54.794111 2023] [mpm_winnt:notice] [pid 27840:tid 788] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 20 20:01:14.607957 2023] [core:warn] [pid 22060:tid 720] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 20 20:01:14.610958 2023] [mpm_winnt:notice] [pid 22060:tid 720] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Mar 20 20:01:14.610958 2023] [mpm_winnt:notice] [pid 22060:tid 720] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 20 20:01:14.610958 2023] [core:notice] [pid 22060:tid 720] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Mon Mar 20 20:01:14.616955 2023] [mpm_winnt:notice] [pid 22060:tid 720] AH00418: Parent: Created child process 14548
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 20 20:01:15.085095 2023] [mpm_winnt:notice] [pid 14548:tid 800] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 20 20:44:39.108950 2023] [core:warn] [pid 26540:tid 736] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 20 20:44:39.111949 2023] [mpm_winnt:notice] [pid 26540:tid 736] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Mar 20 20:44:39.111949 2023] [mpm_winnt:notice] [pid 26540:tid 736] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 20 20:44:39.111949 2023] [core:notice] [pid 26540:tid 736] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Mon Mar 20 20:44:39.115950 2023] [mpm_winnt:notice] [pid 26540:tid 736] AH00418: Parent: Created child process 14868
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 20 20:44:39.588017 2023] [mpm_winnt:notice] [pid 14868:tid 800] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 20 20:48:24.382408 2023] [core:warn] [pid 3200:tid 712] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 20 20:48:24.386412 2023] [mpm_winnt:notice] [pid 3200:tid 712] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Mar 20 20:48:24.386412 2023] [mpm_winnt:notice] [pid 3200:tid 712] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 20 20:48:24.386412 2023] [core:notice] [pid 3200:tid 712] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Mon Mar 20 20:48:24.394931 2023] [mpm_winnt:notice] [pid 3200:tid 712] AH00418: Parent: Created child process 2628
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.14. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 20 20:48:24.979941 2023] [mpm_winnt:notice] [pid 2628:tid 788] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 21 18:51:41.721864 2023] [core:warn] [pid 1456:tid 748] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 21 18:51:41.724871 2023] [mpm_winnt:notice] [pid 1456:tid 748] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Mar 21 18:51:41.724871 2023] [mpm_winnt:notice] [pid 1456:tid 748] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Mar 21 18:51:41.724871 2023] [core:notice] [pid 1456:tid 748] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Tue Mar 21 18:51:41.728866 2023] [mpm_winnt:notice] [pid 1456:tid 748] AH00418: Parent: Created child process 26484
+[Tue Mar 21 18:51:42.253863 2023] [mpm_winnt:notice] [pid 26484:tid 808] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 21 18:54:44.576109 2023] [core:warn] [pid 28468:tid 476] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 21 18:54:44.579109 2023] [mpm_winnt:notice] [pid 28468:tid 476] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Mar 21 18:54:44.579109 2023] [mpm_winnt:notice] [pid 28468:tid 476] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Mar 21 18:54:44.579109 2023] [core:notice] [pid 28468:tid 476] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Tue Mar 21 18:54:44.587117 2023] [mpm_winnt:notice] [pid 28468:tid 476] AH00418: Parent: Created child process 24500
+[Tue Mar 21 18:54:45.175970 2023] [mpm_winnt:notice] [pid 24500:tid 724] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 21 18:59:23.344483 2023] [core:warn] [pid 20048:tid 736] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 21 18:59:23.347483 2023] [mpm_winnt:notice] [pid 20048:tid 736] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Mar 21 18:59:23.347483 2023] [mpm_winnt:notice] [pid 20048:tid 736] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Mar 21 18:59:23.347483 2023] [core:notice] [pid 20048:tid 736] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Tue Mar 21 18:59:23.352494 2023] [mpm_winnt:notice] [pid 20048:tid 736] AH00418: Parent: Created child process 15780
+[Tue Mar 21 18:59:23.857394 2023] [mpm_winnt:notice] [pid 15780:tid 816] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 21 19:00:04.243371 2023] [core:warn] [pid 17140:tid 704] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 21 19:00:04.246370 2023] [mpm_winnt:notice] [pid 17140:tid 704] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Mar 21 19:00:04.246370 2023] [mpm_winnt:notice] [pid 17140:tid 704] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Mar 21 19:00:04.246370 2023] [core:notice] [pid 17140:tid 704] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Tue Mar 21 19:00:04.251373 2023] [mpm_winnt:notice] [pid 17140:tid 704] AH00418: Parent: Created child process 20784
+[Tue Mar 21 19:00:04.761976 2023] [mpm_winnt:notice] [pid 20784:tid 788] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 22 12:11:56.278282 2023] [core:warn] [pid 34416:tid 524] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 22 12:11:56.282792 2023] [mpm_winnt:notice] [pid 34416:tid 524] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Mar 22 12:11:56.282792 2023] [mpm_winnt:notice] [pid 34416:tid 524] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Mar 22 12:11:56.282792 2023] [core:notice] [pid 34416:tid 524] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Wed Mar 22 12:11:56.291319 2023] [mpm_winnt:notice] [pid 34416:tid 524] AH00418: Parent: Created child process 19528
+[Wed Mar 22 12:11:57.576527 2023] [mpm_winnt:notice] [pid 19528:tid 788] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 22 13:37:54.305261 2023] [mpm_winnt:crit] [pid 19528:tid 788] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Mar 22 13:37:54.306260 2023] [mpm_winnt:warn] [pid 19528:tid 1868] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Mar 22 13:37:54.306260 2023] [mpm_winnt:warn] [pid 19528:tid 776] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Mar 22 13:44:34.121584 2023] [core:warn] [pid 21220:tid 764] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 22 13:44:34.124587 2023] [mpm_winnt:notice] [pid 21220:tid 764] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Mar 22 13:44:34.124587 2023] [mpm_winnt:notice] [pid 21220:tid 764] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Mar 22 13:44:34.124587 2023] [core:notice] [pid 21220:tid 764] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Wed Mar 22 13:44:34.128584 2023] [mpm_winnt:notice] [pid 21220:tid 764] AH00418: Parent: Created child process 17612
+[Wed Mar 22 13:44:34.841986 2023] [mpm_winnt:notice] [pid 17612:tid 796] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 22 16:52:27.692908 2023] [core:warn] [pid 29788:tid 492] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 22 16:52:27.695908 2023] [mpm_winnt:notice] [pid 29788:tid 492] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Mar 22 16:52:27.695908 2023] [mpm_winnt:notice] [pid 29788:tid 492] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Mar 22 16:52:27.695908 2023] [core:notice] [pid 29788:tid 492] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Wed Mar 22 16:52:27.701912 2023] [mpm_winnt:notice] [pid 29788:tid 492] AH00418: Parent: Created child process 23224
+[Wed Mar 22 16:52:28.317076 2023] [mpm_winnt:notice] [pid 23224:tid 820] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 23 02:23:29.007583 2023] [core:warn] [pid 25500:tid 760] AH00098: pid file C:/Users/USER/AppData/Roaming/Local/run/FUizJZjAr/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 23 02:23:29.010582 2023] [mpm_winnt:notice] [pid 25500:tid 760] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Mar 23 02:23:29.010582 2023] [mpm_winnt:notice] [pid 25500:tid 760] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Mar 23 02:23:29.010582 2023] [core:notice] [pid 25500:tid 760] AH00094: Command line: 'C:\\Users\\USER\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/USER/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\USER\\AppData\\Roaming\\Local\\run\\FUizJZjAr\\conf\\apache\\apache2.conf'
+[Thu Mar 23 02:23:29.016109 2023] [mpm_winnt:notice] [pid 25500:tid 760] AH00418: Parent: Created child process 35096
+[Thu Mar 23 02:23:29.627801 2023] [mpm_winnt:notice] [pid 35096:tid 804] AH00354: Child: Starting 64 worker threads.

@@ -1,0 +1,7 @@
+[Wed Mar 22 00:03:18.377471 2023] [fcgid:warn] [pid 20784:tid 1168] (70007)The timeout specified has expired: [client 127.0.0.1:55744] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function
+[Wed Mar 22 00:03:22.349712 2023] [fcgid:warn] [pid 20784:tid 1208] (70007)The timeout specified has expired: [client 127.0.0.1:55759] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function
+[Wed Mar 22 00:03:31.793034 2023] [fcgid:warn] [pid 20784:tid 976] (70007)The timeout specified has expired: [client 127.0.0.1:55761] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function
+[Wed Mar 22 00:05:05.197800 2023] [fcgid:warn] [pid 20784:tid 1160] (70007)The timeout specified has expired: [client 127.0.0.1:55821] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function
+[Wed Mar 22 00:09:23.253474 2023] [fcgid:warn] [pid 20784:tid 920] (70007)The timeout specified has expired: [client 127.0.0.1:55879] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function
+[Wed Mar 22 00:15:33.402309 2023] [fcgid:warn] [pid 20784:tid 1160] (70007)The timeout specified has expired: [client 127.0.0.1:62075] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function
+[Wed Mar 22 00:58:43.736235 2023] [fcgid:warn] [pid 20784:tid 1240] (OS 10054)An existing connection was forcibly closed by the remote host.  : [client 127.0.0.1:65156] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://beh-yong-sam.local/
